@@ -1,10 +1,12 @@
-# classico
+# Attendance system using Geo-fencing technology
+Our aim for this project is to develop an Application that can help both the employees and the employer in making the process of tracking attendance, leaves, and live location and recording of on-field worker’s attendance faster and more efficiently.
 
-A new Flutter project.
+By making use of an HR Management application, any organisation would greatly benefit by reducing error rate, decreased workload designated for the management of employees, as well as increase the efficiency of time and error rate for an organisation.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
