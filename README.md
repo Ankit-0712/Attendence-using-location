@@ -1,4 +1,4 @@
-# Attendance system using Geo-fencing technology
+# Attendance system using Live Location
 Our aim for this project is to develop an Application that can help both the employees and the employer in making the process of tracking attendance, leaves, and live location and recording of on-field worker’s attendance faster and more efficiently.
 
 By making use of an HR Management application, any organisation would greatly benefit by reducing error rate, decreased workload designated for the management of employees, as well as increase the efficiency of time and error rate for an organisation.
