@@ -29,13 +29,4 @@ flutter pub get
 # Run the project
 flutter run
 
-Our Team - 
-Ankit Pant
 
-Vibha Yadav
-
-Vanshika Tiwari
-
-Priyanshu Kulyal
-
-Rohit Chand
